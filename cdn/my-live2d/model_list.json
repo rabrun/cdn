@@ -1,0 +1,13 @@
+{
+    "models": [
+		"girls-frontline/aa12_2403",
+		"girls-frontline/ads_3601",
+		"girls-frontline/aek999_1505",
+		"girls-frontline-destroy/aa12_2403",
+		"girls-frontline-destroy/ads_3601",
+		"girls-frontline-destroy/aek999_1505"
+    ],
+    "messages": [
+        "嗨！主人我来喽 ~"
+    ]
+}
